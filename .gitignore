@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+bin/
+lib/
+include/
+*.cfg
