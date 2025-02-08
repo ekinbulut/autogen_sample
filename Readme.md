@@ -1,6 +1,11 @@
 # AutoGen Agents Sample
 
 This repo includes sample usage of Autugen v0.4.5
+
+## Requeirements
+
+* Python 3.10.12
+
 ## Installation
 
 ```sh
